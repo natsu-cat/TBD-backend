@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  [Title: MyString
+  Game: MyString
+  URL: MyText
+  Image: MyText
+  Time: 2021-06-10 17:41:04
+  Total: 1
+  Date: 
+
+two:
+  [Title: MyString
+  Game: MyString
+  URL: MyText
+  Image: MyText
+  Time: 2021-06-10 17:41:04
+  Total: 1
+  Date: 
